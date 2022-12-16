@@ -1,0 +1,40 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "tabnine.experimentalAutoImports": true,
+    "workbench.iconTheme": "vscode-icons",
+    "files.autoSave": "afterDelay",
+    "files.eol": "\n",
+    "eslint.codeActionsOnSave.rules": [
+        ".eslintrc.js"
+    ],
+    "eslint.format.enable": true,
+    "eslint.lintTask.enable": true,
+    "eslint.packageManager": "yarn",
+    "eslint.debug": true,
+    "eslint.options": {},
+    "debug.javascript.autoAttachFilter": "onlyWithFlag",
+    "files.autoSaveDelay": 1000,
+    "editor.formatOnSave": false,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true,
+        "source.fixAll": true
+    },
+
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "gitlens.gitCommands.skipConfirmations": [
+        "fetch:command",
+        "stash-apply:command",
+        "switch:command"
+    ],
+    "cSpell.language": "en,de-DE",
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "npm.keybindingsChangedWarningShown": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "playwright.reuseBrowser": true,
+    "eslint.codeActionsOnSave.mode": "problems",
+    "cSpell.words": [
+
+    ],
+}
